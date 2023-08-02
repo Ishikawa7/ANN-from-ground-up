@@ -1,7 +1,7 @@
 # Neural Network from Scratch with Numpy - MNIST Dataset
 
 ![Neural Network](neural_network.png)
-
+<img src="neural_network.png" alt="neural_network" width="200"/>
 This repository contains a Python implementation of a simple neural network built from scratch using only Numpy library. The neural network is trained and tested on the popular MNIST dataset to perform handwritten digit recognition. It achieved an accuracy of 92.2% with a neural network architecture of 2 layers, each having 10 neurons, trained over 100 epochs.
 
 ## Table of Contents
